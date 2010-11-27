@@ -24,3 +24,4 @@ function cd --description "Change working directory"
     set -e cwd
   end
 end
+
